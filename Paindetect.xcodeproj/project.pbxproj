@@ -1,0 +1,264 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9585388B1532FDCF006B3441 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9585388A1532FDCF006B3441 /* UIKit.framework */; };
+		9585388D1532FDCF006B3441 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9585388C1532FDCF006B3441 /* Foundation.framework */; };
+		9585388F1532FDCF006B3441 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9585388E1532FDCF006B3441 /* CoreGraphics.framework */; };
+		958538951532FDCF006B3441 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 958538931532FDCF006B3441 /* InfoPlist.strings */; };
+		958538971532FDCF006B3441 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 958538961532FDCF006B3441 /* main.m */; };
+		9585389B1532FDCF006B3441 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9585389A1532FDCF006B3441 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		958538861532FDCF006B3441 /* Paindetect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Paindetect.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9585388A1532FDCF006B3441 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		9585388C1532FDCF006B3441 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9585388E1532FDCF006B3441 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		958538921532FDCF006B3441 /* Paindetect-Info.plist */ = {isa = PBXFileReference; path = "Paindetect-Info.plist"; sourceTree = "<group>"; };
+		958538941532FDCF006B3441 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		958538961532FDCF006B3441 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		958538981532FDCF006B3441 /* Paindetect-Prefix.pch */ = {isa = PBXFileReference; path = "Paindetect-Prefix.pch"; sourceTree = "<group>"; };
+		958538991532FDCF006B3441 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		9585389A1532FDCF006B3441 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		958538831532FDCF006B3441 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9585388B1532FDCF006B3441 /* UIKit.framework in Frameworks */,
+				9585388D1532FDCF006B3441 /* Foundation.framework in Frameworks */,
+				9585388F1532FDCF006B3441 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9585387B1532FDCF006B3441 = {
+			isa = PBXGroup;
+			children = (
+				958538901532FDCF006B3441 /* Paindetect */,
+				958538891532FDCF006B3441 /* Frameworks */,
+				958538871532FDCF006B3441 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		958538871532FDCF006B3441 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				958538861532FDCF006B3441 /* Paindetect.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		958538891532FDCF006B3441 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9585388A1532FDCF006B3441 /* UIKit.framework */,
+				9585388C1532FDCF006B3441 /* Foundation.framework */,
+				9585388E1532FDCF006B3441 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		958538901532FDCF006B3441 /* Paindetect */ = {
+			isa = PBXGroup;
+			children = (
+				958538991532FDCF006B3441 /* AppDelegate.h */,
+				9585389A1532FDCF006B3441 /* AppDelegate.m */,
+				958538911532FDCF006B3441 /* Supporting Files */,
+			);
+			path = Paindetect;
+			sourceTree = "<group>";
+		};
+		958538911532FDCF006B3441 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				958538921532FDCF006B3441 /* Paindetect-Info.plist */,
+				958538931532FDCF006B3441 /* InfoPlist.strings */,
+				958538961532FDCF006B3441 /* main.m */,
+				958538981532FDCF006B3441 /* Paindetect-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		958538851532FDCF006B3441 /* Paindetect */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9585389E1532FDCF006B3441 /* Build configuration list for PBXNativeTarget "Paindetect" */;
+			buildPhases = (
+				958538821532FDCF006B3441 /* Sources */,
+				958538831532FDCF006B3441 /* Frameworks */,
+				958538841532FDCF006B3441 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Paindetect;
+			productName = Paindetect;
+			productReference = 958538861532FDCF006B3441 /* Paindetect.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9585387D1532FDCF006B3441 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = blisslogix;
+			};
+			buildConfigurationList = 958538801532FDCF006B3441 /* Build configuration list for PBXProject "Paindetect" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9585387B1532FDCF006B3441;
+			productRefGroup = 958538871532FDCF006B3441 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				958538851532FDCF006B3441 /* Paindetect */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		958538841532FDCF006B3441 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				958538951532FDCF006B3441 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		958538821532FDCF006B3441 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				958538971532FDCF006B3441 /* main.m in Sources */,
+				9585389B1532FDCF006B3441 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		958538931532FDCF006B3441 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				958538941532FDCF006B3441 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9585389C1532FDCF006B3441 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		9585389D1532FDCF006B3441 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9585389F1532FDCF006B3441 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Paindetect/Paindetect-Prefix.pch";
+				INFOPLIST_FILE = "Paindetect/Paindetect-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		958538A01532FDCF006B3441 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Paindetect/Paindetect-Prefix.pch";
+				INFOPLIST_FILE = "Paindetect/Paindetect-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		958538801532FDCF006B3441 /* Build configuration list for PBXProject "Paindetect" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9585389C1532FDCF006B3441 /* Debug */,
+				9585389D1532FDCF006B3441 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9585389E1532FDCF006B3441 /* Build configuration list for PBXNativeTarget "Paindetect" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9585389F1532FDCF006B3441 /* Debug */,
+				958538A01532FDCF006B3441 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9585387D1532FDCF006B3441 /* Project object */;
+}
