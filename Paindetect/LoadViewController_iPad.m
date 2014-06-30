@@ -44,6 +44,7 @@
     
 	NSString *path=[[NSBundle mainBundle]pathForResource:@"paindetect" ofType:@"html"];
 	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:path]]];
+    
 }
 
 //UIAlertView *myAlert;
