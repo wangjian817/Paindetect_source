@@ -1,0 +1,156 @@
+{
+    "Questions": [
+        {
+                  "QuestionNumber":"2",
+            "QuestionType": "YesorNo",
+            "QuestionName": "疼痛发生时有否由该标示区向身体其他部位放射?",
+            
+                    "value1": "是",
+                    "value2": "否",
+              
+                  "resultkey" : "radiate"
+        },
+        {
+                  "QuestionNumber":"3",
+            "QuestionType": "slider",
+            "QuestionName": "目前您疼痛发作时的程度为：",
+            
+                    "value1": "0",
+                    "value2": "10",
+              
+            "resultkey" : "assess"
+
+        },
+        {
+                  "QuestionNumber":"4",
+            "QuestionType": "slider",
+            "QuestionName": "在过去4周中，疼痛发作最剧烈的一次程度为：",
+            
+                    "value1": "0",
+                    "value2": "10"
+             
+        },
+        {
+                  "QuestionNumber":"5",
+            "QuestionType": "slider",
+            "QuestionName": "在过去4周，平均的疼痛程度为：",
+            
+                    "value1": "0",
+                    "value2": "10"
+             
+        },
+        {
+                  "QuestionNumber":"6",
+            "QuestionType": "optionwithpic",
+            "QuestionName": "以下何种疼痛发作模式与您的情况最相符：",
+            
+                    "value1": "image1.png",
+                    "value2": "image2.png",
+                    "value3": "image3.png",
+                    "value4": "image4.png"
+            
+        },
+        {
+                  "QuestionNumber":"7",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "在该标记区是否有烧灼感或麻刺感发生？",
+                                "value1": "从未",
+                    "value2": "几乎没",
+                    "value3": "轻微",
+                    "value4": "中等",
+                    "value5": "重度",
+                    "value6": "严重",
+                  "value7": "0",
+                  "value8": "6"
+            
+        },
+        {
+                  "QuestionNumber":"8",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "在该标示区是否有麻痛（如蚁行感）或针刺痛（如电击样刺痛）发生？",
+            
+                  "value1": "从未",
+                  "value2": "几乎没",
+                  "value3": "轻微",
+                  "value4": "中等",
+                  "value5": "重度",
+                  "value6": "严重",
+                  "value7": "0",
+                  "value8": "6"
+           
+        },
+        {
+                  "QuestionNumber":"9",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "轻触该标示区皮肤（如穿衣时）即引起疼痛?",
+            
+                  "value1": "从未",
+                  "value2": "几乎没",
+                  "value3": "轻微",
+                  "value4": "中等",
+                  "value5": "重度",
+                  "value6": "严重",
+                  "value7": "0",
+                  "value8": "6"
+             
+        },
+        {
+                  "QuestionNumber":"10",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "过去在该标示区是否有突发雷击样疼痛发生？",
+                  "value1": "从未",
+                  "value2": "几乎没",
+                  "value3": "轻微",
+                  "value4": "中等",
+                  "value5": "重度",
+                  "value6": "严重",
+                  "value7": "0",
+                  "value8": "6"
+            
+        },
+        {
+                  "QuestionNumber":"11",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "标示区偶尔接触冷水／热水可引起疼痛？",
+            
+                  "value1": "从未",
+                  "value2": "几乎没",
+                  "value3": "轻微",
+                  "value4": "中等",
+                  "value5": "重度",
+                  "value6": "严重",
+                  "value7": "0",
+                  "value8": "6"
+            
+        },
+        {
+                  "QuestionNumber":"12",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "过去在该标示区是否有麻木感?",
+                  "value1": "从未",
+                  "value2": "几乎没",
+                  "value3": "轻微",
+                  "value4": "中等",
+                  "value5": "重度",
+                  "value6": "严重",
+                  "value7": "0",
+                  "value8": "6"
+             
+        },
+        {
+                  "QuestionNumber":"13",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "轻压该标示区皮肤即可触发疼痛？",
+            
+                  "value1": "从未",
+                  "value2": "几乎没",
+                  "value3": "轻微",
+                  "value4": "中等",
+                  "value5": "重度",
+                  "value6": "严重",
+                  "value7": "0",
+                  "value8": "6"
+            
+        }
+    ]
+}

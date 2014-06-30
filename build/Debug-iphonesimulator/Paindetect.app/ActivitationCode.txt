@@ -1,0 +1,1038 @@
+(
+        {
+        ActivitationCode = N4C6D;
+        ActivitationID = 1;
+    },
+        {
+        ActivitationCode = C6D8E;
+        ActivitationID = 2;
+    },
+        {
+        ActivitationCode = D8E8N;
+        ActivitationID = 3;
+    },
+        {
+        ActivitationCode = E8N2K;
+        ActivitationID = 4;
+    },
+        {
+        ActivitationCode = N2K5I;
+        ActivitationID = 5;
+    },
+        {
+        ActivitationCode = K5I8R;
+        ActivitationID = 6;
+    },
+        {
+        ActivitationCode = I8R5K;
+        ActivitationID = 7;
+    },
+        {
+        ActivitationCode = R5K7C;
+        ActivitationID = 8;
+    },
+        {
+        ActivitationCode = K7C1K;
+        ActivitationID = 9;
+    },
+        {
+        ActivitationCode = C1K6K;
+        ActivitationID = 10;
+    },
+        {
+        ActivitationCode = K6K3Q;
+        ActivitationID = 11;
+    },
+        {
+        ActivitationCode = K3Q5Z;
+        ActivitationID = 12;
+    },
+        {
+        ActivitationCode = Q5Z6B;
+        ActivitationID = 13;
+    },
+        {
+        ActivitationCode = Z6B6P;
+        ActivitationID = 14;
+    },
+        {
+        ActivitationCode = B6P9B;
+        ActivitationID = 15;
+    },
+        {
+        ActivitationCode = P9B9E;
+        ActivitationID = 16;
+    },
+        {
+        ActivitationCode = B9E6S;
+        ActivitationID = 17;
+    },
+        {
+        ActivitationCode = E6S6T;
+        ActivitationID = 18;
+    },
+        {
+        ActivitationCode = S6T7U;
+        ActivitationID = 19;
+    },
+        {
+        ActivitationCode = T7U3M;
+        ActivitationID = 20;
+    },
+        {
+        ActivitationCode = U3M2D;
+        ActivitationID = 21;
+    },
+        {
+        ActivitationCode = M2D8W;
+        ActivitationID = 22;
+    },
+        {
+        ActivitationCode = D8W6I;
+        ActivitationID = 23;
+    },
+        {
+        ActivitationCode = W6I3M;
+        ActivitationID = 24;
+    },
+        {
+        ActivitationCode = I3M4K;
+        ActivitationID = 25;
+    },
+        {
+        ActivitationCode = M4K4B;
+        ActivitationID = 26;
+    },
+        {
+        ActivitationCode = K4B7C;
+        ActivitationID = 27;
+    },
+        {
+        ActivitationCode = B7C6P;
+        ActivitationID = 28;
+    },
+        {
+        ActivitationCode = C6P4M;
+        ActivitationID = 29;
+    },
+        {
+        ActivitationCode = P4M3Q;
+        ActivitationID = 30;
+    },
+        {
+        ActivitationCode = M3Q6S;
+        ActivitationID = 31;
+    },
+        {
+        ActivitationCode = Q6S9Z;
+        ActivitationID = 32;
+    },
+        {
+        ActivitationCode = S9Z4H;
+        ActivitationID = 33;
+    },
+        {
+        ActivitationCode = Z4H4K;
+        ActivitationID = 34;
+    },
+        {
+        ActivitationCode = H4K7C;
+        ActivitationID = 35;
+    },
+        {
+        ActivitationCode = K7C2R;
+        ActivitationID = 36;
+    },
+        {
+        ActivitationCode = C2R2D;
+        ActivitationID = 37;
+    },
+        {
+        ActivitationCode = R2D2Q;
+        ActivitationID = 38;
+    },
+        {
+        ActivitationCode = D2Q6N;
+        ActivitationID = 39;
+    },
+        {
+        ActivitationCode = Q6N9F;
+        ActivitationID = 40;
+    },
+        {
+        ActivitationCode = N9F5Y;
+        ActivitationID = 41;
+    },
+        {
+        ActivitationCode = F5Y9K;
+        ActivitationID = 42;
+    },
+        {
+        ActivitationCode = Y9K7S;
+        ActivitationID = 43;
+    },
+        {
+        ActivitationCode = K7S3X;
+        ActivitationID = 44;
+    },
+        {
+        ActivitationCode = S3X6K;
+        ActivitationID = 45;
+    },
+        {
+        ActivitationCode = X6K2C;
+        ActivitationID = 46;
+    },
+        {
+        ActivitationCode = K2C3C;
+        ActivitationID = 47;
+    },
+        {
+        ActivitationCode = C3C5L;
+        ActivitationID = 48;
+    },
+        {
+        ActivitationCode = C5L2W;
+        ActivitationID = 49;
+    },
+        {
+        ActivitationCode = L2W6E;
+        ActivitationID = 50;
+    },
+        {
+        ActivitationCode = W6E8K;
+        ActivitationID = 51;
+    },
+        {
+        ActivitationCode = E8K1L;
+        ActivitationID = 52;
+    },
+        {
+        ActivitationCode = K1L9K;
+        ActivitationID = 53;
+    },
+        {
+        ActivitationCode = L9K4K;
+        ActivitationID = 54;
+    },
+        {
+        ActivitationCode = K4K7L;
+        ActivitationID = 55;
+    },
+        {
+        ActivitationCode = K7L4E;
+        ActivitationID = 56;
+    },
+        {
+        ActivitationCode = L4E5L;
+        ActivitationID = 57;
+    },
+        {
+        ActivitationCode = E5L7T;
+        ActivitationID = 58;
+    },
+        {
+        ActivitationCode = L7T6G;
+        ActivitationID = 59;
+    },
+        {
+        ActivitationCode = T6G8U;
+        ActivitationID = 60;
+    },
+        {
+        ActivitationCode = G8U1E;
+        ActivitationID = 61;
+    },
+        {
+        ActivitationCode = U1E6E;
+        ActivitationID = 62;
+    },
+        {
+        ActivitationCode = E6E2K;
+        ActivitationID = 63;
+    },
+        {
+        ActivitationCode = E2K4Z;
+        ActivitationID = 64;
+    },
+        {
+        ActivitationCode = K4Z6I;
+        ActivitationID = 65;
+    },
+        {
+        ActivitationCode = Z6I4B;
+        ActivitationID = 66;
+    },
+        {
+        ActivitationCode = I4B9C;
+        ActivitationID = 67;
+    },
+        {
+        ActivitationCode = B9C3K;
+        ActivitationID = 68;
+    },
+        {
+        ActivitationCode = C3K1E;
+        ActivitationID = 69;
+    },
+        {
+        ActivitationCode = K1E5C;
+        ActivitationID = 70;
+    },
+        {
+        ActivitationCode = E5C3X;
+        ActivitationID = 71;
+    },
+        {
+        ActivitationCode = C3X2L;
+        ActivitationID = 72;
+    },
+        {
+        ActivitationCode = X2L4D;
+        ActivitationID = 73;
+    },
+        {
+        ActivitationCode = L4D4M;
+        ActivitationID = 74;
+    },
+        {
+        ActivitationCode = D4M2G;
+        ActivitationID = 75;
+    },
+        {
+        ActivitationCode = M2G8E;
+        ActivitationID = 76;
+    },
+        {
+        ActivitationCode = G8E9I;
+        ActivitationID = 77;
+    },
+        {
+        ActivitationCode = E9I6K;
+        ActivitationID = 78;
+    },
+        {
+        ActivitationCode = I6K1E;
+        ActivitationID = 79;
+    },
+        {
+        ActivitationCode = K1E4M;
+        ActivitationID = 80;
+    },
+        {
+        ActivitationCode = E4M5Z;
+        ActivitationID = 81;
+    },
+        {
+        ActivitationCode = M5Z7K;
+        ActivitationID = 82;
+    },
+        {
+        ActivitationCode = Z7K2D;
+        ActivitationID = 83;
+    },
+        {
+        ActivitationCode = K2D5E;
+        ActivitationID = 84;
+    },
+        {
+        ActivitationCode = D5E3E;
+        ActivitationID = 85;
+    },
+        {
+        ActivitationCode = E3E7C;
+        ActivitationID = 86;
+    },
+        {
+        ActivitationCode = E7C2M;
+        ActivitationID = 87;
+    },
+        {
+        ActivitationCode = C2M9D;
+        ActivitationID = 88;
+    },
+        {
+        ActivitationCode = M9D7K;
+        ActivitationID = 89;
+    },
+        {
+        ActivitationCode = D7K5L;
+        ActivitationID = 90;
+    },
+        {
+        ActivitationCode = K5L4R;
+        ActivitationID = 91;
+    },
+        {
+        ActivitationCode = L4R1B;
+        ActivitationID = 92;
+    },
+        {
+        ActivitationCode = R1B9K;
+        ActivitationID = 93;
+    },
+        {
+        ActivitationCode = B9K6Q;
+        ActivitationID = 94;
+    },
+        {
+        ActivitationCode = K6Q3P;
+        ActivitationID = 95;
+    },
+        {
+        ActivitationCode = Q3P5M;
+        ActivitationID = 96;
+    },
+        {
+        ActivitationCode = P5M3L;
+        ActivitationID = 97;
+    },
+        {
+        ActivitationCode = M3L7B;
+        ActivitationID = 98;
+    },
+        {
+        ActivitationCode = L7B7N;
+        ActivitationID = 99;
+    },
+        {
+        ActivitationCode = B7N5E;
+        ActivitationID = 100;
+    },
+        {
+        ActivitationCode = N5E9E;
+        ActivitationID = 101;
+    },
+        {
+        ActivitationCode = E9E1L;
+        ActivitationID = 102;
+    },
+        {
+        ActivitationCode = E1L1E;
+        ActivitationID = 103;
+    },
+        {
+        ActivitationCode = L1E7E;
+        ActivitationID = 104;
+    },
+        {
+        ActivitationCode = E7E6E;
+        ActivitationID = 105;
+    },
+        {
+        ActivitationCode = E6E6L;
+        ActivitationID = 106;
+    },
+        {
+        ActivitationCode = E6L2K;
+        ActivitationID = 107;
+    },
+        {
+        ActivitationCode = L2K5D;
+        ActivitationID = 108;
+    },
+        {
+        ActivitationCode = K5D7N;
+        ActivitationID = 109;
+    },
+        {
+        ActivitationCode = D7N6M;
+        ActivitationID = 110;
+    },
+        {
+        ActivitationCode = N6M1H;
+        ActivitationID = 111;
+    },
+        {
+        ActivitationCode = M1H7Z;
+        ActivitationID = 112;
+    },
+        {
+        ActivitationCode = H7Z6K;
+        ActivitationID = 113;
+    },
+        {
+        ActivitationCode = Z6K6B;
+        ActivitationID = 114;
+    },
+        {
+        ActivitationCode = K6B7M;
+        ActivitationID = 115;
+    },
+        {
+        ActivitationCode = B7M6B;
+        ActivitationID = 116;
+    },
+        {
+        ActivitationCode = M6B7M;
+        ActivitationID = 117;
+    },
+        {
+        ActivitationCode = B7M3X;
+        ActivitationID = 118;
+    },
+        {
+        ActivitationCode = M3X5E;
+        ActivitationID = 119;
+    },
+        {
+        ActivitationCode = X5E7E;
+        ActivitationID = 120;
+    },
+        {
+        ActivitationCode = E7E4B;
+        ActivitationID = 121;
+    },
+        {
+        ActivitationCode = E4B1E;
+        ActivitationID = 122;
+    },
+        {
+        ActivitationCode = B1E4I;
+        ActivitationID = 123;
+    },
+        {
+        ActivitationCode = E4I4Q;
+        ActivitationID = 124;
+    },
+        {
+        ActivitationCode = I4Q9P;
+        ActivitationID = 125;
+    },
+        {
+        ActivitationCode = Q9P8D;
+        ActivitationID = 126;
+    },
+        {
+        ActivitationCode = P8D1C;
+        ActivitationID = 127;
+    },
+        {
+        ActivitationCode = D1C3C;
+        ActivitationID = 128;
+    },
+        {
+        ActivitationCode = C3C8B;
+        ActivitationID = 129;
+    },
+        {
+        ActivitationCode = C8B7J;
+        ActivitationID = 130;
+    },
+        {
+        ActivitationCode = B7J7E;
+        ActivitationID = 131;
+    },
+        {
+        ActivitationCode = J7E5W;
+        ActivitationID = 132;
+    },
+        {
+        ActivitationCode = E5W5N;
+        ActivitationID = 133;
+    },
+        {
+        ActivitationCode = W5N4K;
+        ActivitationID = 134;
+    },
+        {
+        ActivitationCode = N4K9U;
+        ActivitationID = 135;
+    },
+        {
+        ActivitationCode = K9U8Z;
+        ActivitationID = 136;
+    },
+        {
+        ActivitationCode = U8Z1W;
+        ActivitationID = 137;
+    },
+        {
+        ActivitationCode = Z1W7E;
+        ActivitationID = 138;
+    },
+        {
+        ActivitationCode = W7E4V;
+        ActivitationID = 139;
+    },
+        {
+        ActivitationCode = E4V9K;
+        ActivitationID = 140;
+    },
+        {
+        ActivitationCode = V9K2E;
+        ActivitationID = 141;
+    },
+        {
+        ActivitationCode = K2E5E;
+        ActivitationID = 142;
+    },
+        {
+        ActivitationCode = E5E7C;
+        ActivitationID = 143;
+    },
+        {
+        ActivitationCode = E7C6B;
+        ActivitationID = 144;
+    },
+        {
+        ActivitationCode = C6B3M;
+        ActivitationID = 145;
+    },
+        {
+        ActivitationCode = B3M8Q;
+        ActivitationID = 146;
+    },
+        {
+        ActivitationCode = M8Q5E;
+        ActivitationID = 147;
+    },
+        {
+        ActivitationCode = Q5E8B;
+        ActivitationID = 148;
+    },
+        {
+        ActivitationCode = E8B9N;
+        ActivitationID = 149;
+    },
+        {
+        ActivitationCode = B9N2B;
+        ActivitationID = 150;
+    },
+        {
+        ActivitationCode = N2B3I;
+        ActivitationID = 151;
+    },
+        {
+        ActivitationCode = B3I3C;
+        ActivitationID = 152;
+    },
+        {
+        ActivitationCode = I3C9K;
+        ActivitationID = 153;
+    },
+        {
+        ActivitationCode = C9K1N;
+        ActivitationID = 154;
+    },
+        {
+        ActivitationCode = K1N5M;
+        ActivitationID = 155;
+    },
+        {
+        ActivitationCode = N5M9K;
+        ActivitationID = 156;
+    },
+        {
+        ActivitationCode = M9K8Y;
+        ActivitationID = 157;
+    },
+        {
+        ActivitationCode = K8Y3Z;
+        ActivitationID = 158;
+    },
+        {
+        ActivitationCode = Y3Z6E;
+        ActivitationID = 159;
+    },
+        {
+        ActivitationCode = Z6E5I;
+        ActivitationID = 160;
+    },
+        {
+        ActivitationCode = E5I1C;
+        ActivitationID = 161;
+    },
+        {
+        ActivitationCode = I1C2B;
+        ActivitationID = 162;
+    },
+        {
+        ActivitationCode = C2B4E;
+        ActivitationID = 163;
+    },
+        {
+        ActivitationCode = B4E5R;
+        ActivitationID = 164;
+    },
+        {
+        ActivitationCode = E5R2D;
+        ActivitationID = 165;
+    },
+        {
+        ActivitationCode = R2D5I;
+        ActivitationID = 166;
+    },
+        {
+        ActivitationCode = D5I9S;
+        ActivitationID = 167;
+    },
+        {
+        ActivitationCode = I9S5Q;
+        ActivitationID = 168;
+    },
+        {
+        ActivitationCode = S5Q7Q;
+        ActivitationID = 169;
+    },
+        {
+        ActivitationCode = Q7Q5M;
+        ActivitationID = 170;
+    },
+        {
+        ActivitationCode = Q5M5L;
+        ActivitationID = 171;
+    },
+        {
+        ActivitationCode = M5L4V;
+        ActivitationID = 172;
+    },
+        {
+        ActivitationCode = L4V6W;
+        ActivitationID = 173;
+    },
+        {
+        ActivitationCode = V6W8L;
+        ActivitationID = 174;
+    },
+        {
+        ActivitationCode = W8L6W;
+        ActivitationID = 175;
+    },
+        {
+        ActivitationCode = L6W7M;
+        ActivitationID = 176;
+    },
+        {
+        ActivitationCode = W7M6E;
+        ActivitationID = 177;
+    },
+        {
+        ActivitationCode = M6E9I;
+        ActivitationID = 178;
+    },
+        {
+        ActivitationCode = E9I9K;
+        ActivitationID = 179;
+    },
+        {
+        ActivitationCode = I9K2E;
+        ActivitationID = 180;
+    },
+        {
+        ActivitationCode = K2E1D;
+        ActivitationID = 181;
+    },
+        {
+        ActivitationCode = E1D9W;
+        ActivitationID = 182;
+    },
+        {
+        ActivitationCode = D9W9P;
+        ActivitationID = 183;
+    },
+        {
+        ActivitationCode = W9P7E;
+        ActivitationID = 184;
+    },
+        {
+        ActivitationCode = P7E9I;
+        ActivitationID = 185;
+    },
+        {
+        ActivitationCode = E9I7E;
+        ActivitationID = 186;
+    },
+        {
+        ActivitationCode = I7E1S;
+        ActivitationID = 187;
+    },
+        {
+        ActivitationCode = E1S7Z;
+        ActivitationID = 188;
+    },
+        {
+        ActivitationCode = S7Z1Q;
+        ActivitationID = 189;
+    },
+        {
+        ActivitationCode = Z1Q4B;
+        ActivitationID = 190;
+    },
+        {
+        ActivitationCode = Q4B2E;
+        ActivitationID = 191;
+    },
+        {
+        ActivitationCode = B2E1E;
+        ActivitationID = 192;
+    },
+        {
+        ActivitationCode = E1E1N;
+        ActivitationID = 193;
+    },
+        {
+        ActivitationCode = E1N6E;
+        ActivitationID = 194;
+    },
+        {
+        ActivitationCode = N6E6E;
+        ActivitationID = 195;
+    },
+        {
+        ActivitationCode = E6E7E;
+        ActivitationID = 196;
+    },
+        {
+        ActivitationCode = E7E8E;
+        ActivitationID = 197;
+    },
+        {
+        ActivitationCode = E8E5E;
+        ActivitationID = 198;
+    },
+        {
+        ActivitationCode = E5E3T;
+        ActivitationID = 199;
+    },
+        {
+        ActivitationCode = E3T5R;
+        ActivitationID = 200;
+    },
+        {
+        ActivitationCode = T5R9C;
+        ActivitationID = 201;
+    },
+        {
+        ActivitationCode = R9C7E;
+        ActivitationID = 202;
+    },
+        {
+        ActivitationCode = C7E7B;
+        ActivitationID = 203;
+    },
+        {
+        ActivitationCode = E7B1U;
+        ActivitationID = 204;
+    },
+        {
+        ActivitationCode = B1U9E;
+        ActivitationID = 205;
+    },
+        {
+        ActivitationCode = U9E4B;
+        ActivitationID = 206;
+    },
+        {
+        ActivitationCode = E4B1I;
+        ActivitationID = 207;
+    },
+        {
+        ActivitationCode = B1I7Z;
+        ActivitationID = 208;
+    },
+        {
+        ActivitationCode = I7Z7K;
+        ActivitationID = 209;
+    },
+        {
+        ActivitationCode = Z7K7L;
+        ActivitationID = 210;
+    },
+        {
+        ActivitationCode = K7L7L;
+        ActivitationID = 211;
+    },
+        {
+        ActivitationCode = L7L3E;
+        ActivitationID = 212;
+    },
+        {
+        ActivitationCode = L3E5E;
+        ActivitationID = 213;
+    },
+        {
+        ActivitationCode = E5E4P;
+        ActivitationID = 214;
+    },
+        {
+        ActivitationCode = E4P5D;
+        ActivitationID = 215;
+    },
+        {
+        ActivitationCode = P5D8C;
+        ActivitationID = 216;
+    },
+        {
+        ActivitationCode = D8C1W;
+        ActivitationID = 217;
+    },
+        {
+        ActivitationCode = C1W5E;
+        ActivitationID = 218;
+    },
+        {
+        ActivitationCode = W5E8K;
+        ActivitationID = 219;
+    },
+        {
+        ActivitationCode = E8K9K;
+        ActivitationID = 220;
+    },
+        {
+        ActivitationCode = K9K4Z;
+        ActivitationID = 221;
+    },
+        {
+        ActivitationCode = K4Z1C;
+        ActivitationID = 222;
+    },
+        {
+        ActivitationCode = Z1C1Q;
+        ActivitationID = 223;
+    },
+        {
+        ActivitationCode = C1Q4C;
+        ActivitationID = 224;
+    },
+        {
+        ActivitationCode = Q4C3D;
+        ActivitationID = 225;
+    },
+        {
+        ActivitationCode = C3D1E;
+        ActivitationID = 226;
+    },
+        {
+        ActivitationCode = D1E5L;
+        ActivitationID = 227;
+    },
+        {
+        ActivitationCode = E5L5K;
+        ActivitationID = 228;
+    },
+        {
+        ActivitationCode = L5K7I;
+        ActivitationID = 229;
+    },
+        {
+        ActivitationCode = K7I4Y;
+        ActivitationID = 230;
+    },
+        {
+        ActivitationCode = I4Y3N;
+        ActivitationID = 231;
+    },
+        {
+        ActivitationCode = Y3N2Z;
+        ActivitationID = 232;
+    },
+        {
+        ActivitationCode = N2Z1G;
+        ActivitationID = 233;
+    },
+        {
+        ActivitationCode = Z1G3Q;
+        ActivitationID = 234;
+    },
+        {
+        ActivitationCode = G3Q4E;
+        ActivitationID = 235;
+    },
+        {
+        ActivitationCode = Q4E7M;
+        ActivitationID = 236;
+    },
+        {
+        ActivitationCode = E7M6M;
+        ActivitationID = 237;
+    },
+        {
+        ActivitationCode = M6M6W;
+        ActivitationID = 238;
+    },
+        {
+        ActivitationCode = M6W2W;
+        ActivitationID = 239;
+    },
+        {
+        ActivitationCode = W2W2E;
+        ActivitationID = 240;
+    },
+        {
+        ActivitationCode = W2E5K;
+        ActivitationID = 241;
+    },
+        {
+        ActivitationCode = E5K2E;
+        ActivitationID = 242;
+    },
+        {
+        ActivitationCode = K2E4R;
+        ActivitationID = 243;
+    },
+        {
+        ActivitationCode = E4R3Z;
+        ActivitationID = 244;
+    },
+        {
+        ActivitationCode = R3Z8E;
+        ActivitationID = 245;
+    },
+        {
+        ActivitationCode = Z8E6P;
+        ActivitationID = 246;
+    },
+        {
+        ActivitationCode = E6P2L;
+        ActivitationID = 247;
+    },
+        {
+        ActivitationCode = P2L6B;
+        ActivitationID = 248;
+    },
+        {
+        ActivitationCode = L6B8S;
+        ActivitationID = 249;
+    },
+        {
+        ActivitationCode = B8S1E;
+        ActivitationID = 250;
+    },
+        {
+        ActivitationCode = S1E4T;
+        ActivitationID = 251;
+    },
+        {
+        ActivitationCode = E4T2E;
+        ActivitationID = 252;
+    },
+        {
+        ActivitationCode = T2E2E;
+        ActivitationID = 253;
+    },
+        {
+        ActivitationCode = E2E8Z;
+        ActivitationID = 254;
+    },
+        {
+        ActivitationCode = E8Z6Q;
+        ActivitationID = 255;
+    },
+        {
+        ActivitationCode = Z6Q3X;
+        ActivitationID = 256;
+    },
+        {
+        ActivitationCode = Q3X8M;
+        ActivitationID = 257;
+    },
+        {
+        ActivitationCode = X8M7A;
+        ActivitationID = 258;
+    },
+        {
+        ActivitationCode = M7A3D;
+        ActivitationID = 259;
+    }
+)

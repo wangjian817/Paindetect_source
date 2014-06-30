@@ -1,0 +1,157 @@
+{
+    "Questions": [
+        {
+                  "QuestionNumber":"2",
+            "QuestionType": "YesorNo",
+            "QuestionName": "Does your pain radiate to other regions of your body?",
+            
+                    "value1": "YES",
+                    "value2": "NO",
+              
+                  "resultkey" : "radiate"
+        },
+        {
+                  "QuestionNumber":"3",
+            "QuestionType": "slider",
+            "QuestionName": "How would you assess your pain now at this moment?",
+            
+                    "value1": "0",
+                    "value2": "10",
+              
+            "resultkey" : "assess"
+
+        },
+        {
+                  "QuestionNumber":"4",
+            "QuestionType": "slider",
+            "QuestionName": "How strong was the strongest pain during the past 4 weeks?",
+            
+                    "value1": "0",
+                    "value2": "10"
+             
+        },
+        {
+                  "QuestionNumber":"5",
+            "QuestionType": "slider",
+            "QuestionName": "How strong was the pain during the past 4 weeks on average?",
+            
+                    "value1": "0",
+                    "value2": "10"
+             
+        },
+        {
+                  "QuestionNumber":"6",
+            "QuestionType": "optionwithpic",
+            "QuestionName": "Mark the picture that best describes the course of your pain.",
+            
+                    "value1": "image1.png",
+                    "value2": "image2.png",
+                    "value3": "image3.png",
+                    "value4": "image4.png"
+            
+        },
+        {
+                  "QuestionNumber":"7",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "Do you suffer from a burning sensation(e.g.,stinging nettles)in the marked areas?",
+                                "value1": "never",
+                    "value2": "hardly noticed",
+                    "value3": "slightly",
+                    "value4": "moderately",
+                    "value5": "strongly",
+                    "value6": "very strongly",
+                  "value7": "0",
+                  "value8": "6"
+            
+        },
+        {
+                  "QuestionNumber":"8",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "Do you have a tingling or prickling sensation in the area of your pain(like crawling ants or electrical tingling)?",
+            
+                    "value1": "never",
+                    "value2": "hardly noticed",
+                    "value3": "slightly",
+                    "value4": "moderately",
+                    "value5": "strongly",
+                  "value6": "very strongly",
+                  "value7": "0",
+                  "value8": "6"
+           
+        },
+        {
+                  "QuestionNumber":"9",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "Is light touching(clothing a blanket)in this area painful?",
+            
+                    "value1": "never",
+                    "value2": "hardly noticed",
+                    "value3": "slightly",
+                    "value4": "moderately",
+                    "value5": "strongly",
+                  "value6": "very strongly",
+                  "value7": "0",
+                  "value8": "6"
+             
+        },
+        {
+                  "QuestionNumber":"10",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "Do you have sudden pain attacks in the area of your pain like electric shocks?",
+            
+                    "value1": "never",
+                    "value2": "hardly noticed",
+                    "value3": "slightly",
+                    "value4": "moderately",
+                    "value5": "strongly",
+                  "value6": "very strongly",
+                  "value7": "0",
+                  "value8": "6"
+            
+        },
+        {
+                  "QuestionNumber":"11",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "Is cold or heat(bath water)in this area occasionally painful?",
+            
+                    "value1": "never",
+                    "value2": "hardly noticed",
+                    "value3": "slightly",
+                    "value4": "moderately",
+                    "value5": "strongly",
+                  "value6": "very strongly",
+                  "value7": "0",
+                  "value8": "6"
+            
+        },
+        {
+                  "QuestionNumber":"12",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "Do you suffer from a sensation of numbness in the areas that you marked?",
+                                "value1": "never",
+                    "value2": "hardly noticed",
+                    "value3": "slightly",
+                    "value4": "moderately",
+                    "value5": "strongly",
+                  "value6": "very strongly",
+                  "value7": "0",
+                  "value8": "6"
+             
+        },
+        {
+                  "QuestionNumber":"13",
+            "QuestionType": "optionwithoutpic",
+            "QuestionName": "Does slight pressure in this area e.g.,with a finger trigger pain",
+            
+                    "value1": "never",
+                    "value2": "hardly noticed",
+                    "value3": "slightly",
+                    "value4": "moderately",
+                    "value5": "strongly",
+                  "value6": "very strongly",
+                  "value7": "0",
+                  "value8": "6"
+            
+        }
+    ]
+}
