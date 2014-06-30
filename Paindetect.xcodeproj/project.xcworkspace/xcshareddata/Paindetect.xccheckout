@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E10526F6-37D7-4B62-91D2-EA60FD0786B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Paindetect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1BA40B80-B703-4712-8ABD-817619779DA5</key>
+		<string>https://github.com/wangjian817/Paindetect_source.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Paindetect.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1BA40B80-B703-4712-8ABD-817619779DA5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangjian817/Paindetect_source.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1BA40B80-B703-4712-8ABD-817619779DA5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1BA40B80-B703-4712-8ABD-817619779DA5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Paindetect_source</string>
+		</dict>
+	</array>
+</dict>
+</plist>
